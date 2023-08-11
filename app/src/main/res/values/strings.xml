@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVMLivedataApp</string>
+    <string name="empty_list">No item to display</string>
+    <string name="an_error_occurred">Oops! Some Error occurred.</string>
+</resources>
